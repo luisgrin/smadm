@@ -1,0 +1,2 @@
+# smadm
+lo de smadm
